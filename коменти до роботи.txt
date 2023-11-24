@@ -1,5 +1,0 @@
-1) deleted styles from div to separate kategory
-2) created link for style.css
-3)created file style.css and filled up
-4) added reset.css as code
-5) restored hw after destroing from reset.css 
